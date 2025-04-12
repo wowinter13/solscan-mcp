@@ -1,4 +1,4 @@
-# solscan-mcp: A Solscan API MCP Server in Rust
+# 🟣🔎 solscan-mcp: A Solscan API MCP Server in Rust
 
 ## Overview
 
