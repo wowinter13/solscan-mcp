@@ -15,9 +15,10 @@ https://github.com/user-attachments/assets/2f2586b2-ed9d-4d4d-bda4-0154b9b98cde
 
 
 
-You can also use it for much more complex queries, like analyzing criminal activity combining multiple MCPs and correct context.
+_You can also use it for much more complex queries, like analyzing criminal activity combining multiple MCPs and correct context._
 
-For example, upload a csv list of suspected addresses, then using perplexity-mcp research tool LLM will add info to context window on how investigators define criminal wallets based on their activity (mev, dusting, poisoning, sandwiched, etc) -> solscan-mcp will use this context to investigate the wallets and provide a report.
+_For example, upload a csv list of suspected addresses, then using perplexity-mcp research tool LLM will add info to context window on how investigators define criminal wallets based on their activity (mev, dusting, poisoning, sandwiched, etc) -> solscan-mcp will use this context to investigate the wallets and provide a report._
+
 
 ## Features
 
