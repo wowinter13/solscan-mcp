@@ -18,9 +18,31 @@ Prerequisites:
 
 ### Regular
 
+```bash
+cargo install solscan-mcp
 
+where solscan-mcp # -> /Users/$username/.cargo/bin/solscan-mcp
+```
+
+Add the following to your `claude_desktop_config.json` or `claude_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "solscan-mcp": {
+      "command": "/Users/$username/.cargo/bin/solscan-mcp",
+      "args": [],
+      "env": {
+        "SOLSCAN_API_KEY": "your_solscan_api_key"
+      }
+    }
+  }
+}
+```
 
 ### Docker
+
+WIP, will be available soon.
 
 
 
