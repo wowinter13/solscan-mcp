@@ -9,7 +9,11 @@ A Model Context Protocol (MCP) server for interacting with the Solscan Pro API f
 
 Simple prompts: 
 
-![Demo Video](misc/demo.mp4)
+
+https://github.com/user-attachments/assets/2f2586b2-ed9d-4d4d-bda4-0154b9b98cde
+
+
+
 
 You can also use it for much more complex queries, like analyzing criminal activity combining multiple MCPs and correct context.
 
