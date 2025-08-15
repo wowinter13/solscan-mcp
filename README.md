@@ -1,4 +1,5 @@
 # 🟣🔎 solscan-mcp: A Solscan API MCP Server in Rust
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/wowinter13/solscan-mcp)](https://archestra.ai/mcp-catalog/wowinter13__solscan-mcp)
 
 ## Overview
 
